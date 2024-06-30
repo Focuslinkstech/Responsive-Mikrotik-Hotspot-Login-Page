@@ -30,6 +30,7 @@
 
 # Screenshots
 ![image](https://github.com/Focuslinkstech/Responsive-Mikrotik-Hotspot-Login-Page/assets/45756999/d9761789-03bb-43ce-8afb-3ea604a804f1)
-![image](https://github.com/Focuslinkstech/Responsive-Mikrotik-Hotspot-Login-Page/assets/45756999/87f991b5-1c33-4c65-85c1-cfc63509a1a2)
+![image](https://github.com/Focuslinkstech/Responsive-Mikrotik-Hotspot-Login-Page/assets/45756999/1a010a27-d061-4677-95a3-373b9efb8bd2)
+
 
 
